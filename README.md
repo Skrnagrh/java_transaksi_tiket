@@ -62,19 +62,19 @@ Jika Anda mengalami kesulitan dalam instalasi atau memiliki pertanyaan tentang p
 Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/1.PNG" alt="Tampilan 1" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/2.PNG" alt="Tampilan 2" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/1.PNG" alt="Tampilan 1" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/2.PNG" alt="Tampilan 2" width="50%"> |
 |:---:|:---:|
 | Halaman Login. | Halaman Register. |
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/3.PNG" alt="Tampilan 3" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/4.PNG" alt="Tampilan 4" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/3.PNG" alt="Tampilan 3" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/4.PNG" alt="Tampilan 4" width="50%"> |
 |:---:|:---:|
 | Halaman Menu Utama. | Halaman Data kereta dan Tujuan. |
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/5.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/6.PNG" alt="Tampilan 6" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeansraw/main/1.tampilan/5.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/6.PNG" alt="Tampilan 6" width="50%"> |
 |:---:|:---:|
 | Halaman Data Penumpang. | Halaman Pilih Tiket Kereta. |
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/7.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/8.PNG" alt="Tampilan 6" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/7.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/8.PNG" alt="Tampilan 6" width="50%"> |
 |:---:|:---:|
 | Halaman Transaksi. | Halaman Tiket Kereta. |
 
