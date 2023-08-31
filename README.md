@@ -78,5 +78,3 @@ Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 |:---:|:---:|
 | Halaman Transaksi. | Halaman Tiket Kereta. |
 
-
-_**Catatan:** Gambaran visual di atas adalah ilustrasi dan mungkin tidak merepresentasikan tampilan sebenarnya dari proyek Anda._
