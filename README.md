@@ -70,7 +70,7 @@ Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 |:---:|:---:|
 | Halaman Menu Utama. | Halaman Data kereta dan Tujuan. |
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeansraw/main/1.tampilan/5.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/6.PNG" alt="Tampilan 6" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/5.PNG" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/raw/main/1.tampilan/6.PNG" alt="Tampilan 6" width="50%"> |
 |:---:|:---:|
 | Halaman Data Penumpang. | Halaman Pilih Tiket Kereta. |
 
