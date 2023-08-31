@@ -1,62 +1,51 @@
-## Read Me - Proyek CRUD Transaksi Tiket Kereta Api dengan Java dan NetBeans
+## Proyek CRUD Transaksi Tiket Kereta Api: Panduan Instalasi
 
-Selamat datang di proyek CRUD Transaksi Tiket Kereta Api! Proyek ini adalah contoh implementasi pemrograman berorientasi objek (OOP) menggunakan bahasa pemrograman Java dan IDE NetBeans. Tujuan proyek ini adalah untuk memahami konsep dasar CRUD (Create, Read, Update, Delete) dalam konteks transaksi tiket kereta api.
+Selamat datang di panduan instalasi proyek CRUD Transaksi Tiket Kereta Api! Panduan ini akan membantu Anda mengatur lingkungan yang diperlukan dan menjalankan aplikasi ini dengan lancar.
 
-### Deskripsi Proyek
+### Prasyarat
 
-Proyek ini mengimplementasikan operasi CRUD untuk mengelola transaksi tiket kereta api. Fungsionalitas utama proyek ini mencakup:
+Sebelum Anda mulai menginstal proyek ini, pastikan Anda memiliki hal-hal berikut:
 
-1. **Tambah Tiket**: Menambahkan informasi tiket kereta api baru ke dalam sistem.
-2. **Daftar Tiket**: Menampilkan daftar semua tiket yang tersedia dalam sistem.
-3. **Update Tiket**: Mengedit informasi tiket yang sudah ada dalam sistem.
-4. **Hapus Tiket**: Menghapus tiket yang sudah tidak diperlukan dari sistem.
+1. **Java Development Kit (JDK)**: Pastikan JDK terinstal di komputer Anda. Anda dapat mengunduhnya dari [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) atau [OpenJDK](https://openjdk.java.net/).
 
-### Langkah-langkah Implementasi
+2. **NetBeans IDE**: Anda perlu mengunduh dan menginstal [NetBeans IDE](https://netbeans.apache.org/download/index.html).
 
-1. **Membuat Proyek Baru**:
-   - Buka NetBeans dan buat proyek baru dengan jenis "Java Application".
-   - Beri nama proyek sesuai preferensi Anda.
+3. **Database**: Pastikan Anda memiliki database yang mendukung JDBC (misalnya MySQL, PostgreSQL). Anda harus menyiapkan tabel untuk menyimpan informasi tiket dan transaksi.
 
-2. **Membuat Kelas Tiket**:
-   - Buat kelas `Tiket` untuk merepresentasikan informasi tiket kereta.
-   - Definisikan atribut seperti nomor tiket, nama penumpang, stasiun asal, stasiun tujuan, harga, dan lainnya.
-   - Implementasikan konstruktor, getter, dan setter.
+### Langkah-langkah Instalasi
 
-3. **Membuat Kelas Transaksi**:
-   - Buat kelas `Transaksi` untuk mengelola transaksi pembelian tiket.
-   - Gunakan kelas `Tiket` sebagai bagian dari atribut transaksi.
-   - Definisikan atribut seperti tanggal transaksi, jumlah tiket, total harga, dan lainnya.
+Berikut adalah langkah-langkah untuk menginstal dan menjalankan proyek ini:
 
-4. **Membuat Antarmuka Pengguna (GUI)**:
-   - Buat antarmuka pengguna dengan menggunakan komponen GUI dari NetBeans.
-   - Buat formulir untuk menambah, mengedit, dan menghapus tiket serta melihat daftar tiket.
-   - Pastikan untuk menghubungkan komponen GUI dengan kode Java yang relevan.
+1. **Unduh Proyek**:
+   - Klik tombol "Clone or download" di repositori proyek di GitHub.
+   - Pilih opsi "Download ZIP" untuk mengunduh proyek dalam bentuk arsip ZIP.
+   - Ekstrak arsip ZIP ke direktori kerja Anda.
 
-5. **Implementasi Operasi CRUD**:
-   - Implementasikan fungsi untuk menambah tiket baru ke dalam sistem.
-   - Implementasikan fungsi untuk mengambil daftar semua tiket.
-   - Implementasikan fungsi untuk mengedit informasi tiket yang ada.
-   - Implementasikan fungsi untuk menghapus tiket dari sistem.
+2. **Menghubungkan Database**:
+   - Buka aplikasi database Anda dan buat database baru untuk proyek ini.
+   - Buat tabel "tiket" dan "transaksi" dengan kolom yang sesuai.
+   - Catat informasi koneksi database Anda (URL, username, password).
 
-6. **Menghubungkan Aplikasi dengan Database**:
-   - Gunakan JDBC (Java Database Connectivity) untuk menghubungkan aplikasi dengan database.
-   - Buat tabel di database untuk menyimpan informasi tiket dan transaksi.
-   - Implementasikan logika untuk menyimpan, mengambil, mengupdate, dan menghapus data dari database.
+3. **Buka Proyek di NetBeans**:
+   - Buka NetBeans IDE yang telah Anda instal.
+   - Pilih "File" > "Open Project" dan pilih direktori proyek yang telah diekstrak.
 
-7. **Menambahkan Gambaran Visual**:
-   - Sertakan tampilan gambaran visual antarmuka pengguna dalam proyek Anda.
-   - Gambaran visual dapat berupa tangkapan layar dari formulir tambah tiket, daftar tiket, dan lainnya.
+4. **Konfigurasi Koneksi Database**:
+   - Buka file konfigurasi yang mungkin berada di direktori "src" atau "src/main" (misalnya `DatabaseConfig.java`).
+   - Ganti informasi koneksi database sesuai dengan yang Anda catat sebelumnya.
 
-### Cara Menjalankan Proyek
+5. **Build dan Jalankan Aplikasi**:
+   - Pilih proyek di jendela Proyek NetBeans.
+   - Klik kanan dan pilih "Build" untuk mengompilasi proyek.
+   - Klik kanan lagi dan pilih "Run" untuk menjalankan aplikasi.
 
-1. Buka proyek menggunakan NetBeans.
-2. Pastikan Anda memiliki database yang sudah terhubung.
-3. Jalankan aplikasi dari NetBeans.
-4. Aplikasi akan menampilkan antarmuka pengguna, dan Anda dapat mulai mengelola transaksi tiket kereta api.
+6. **Gunakan Aplikasi**:
+   - Aplikasi akan membuka antarmuka pengguna.
+   - Anda dapat menambah, mengedit, atau menghapus tiket serta melihat daftar tiket.
 
 ### Kontribusi
 
-Kami menyambut kontribusi terhadap proyek ini. Jika Anda ingin berkontribusi, silakan lakukan langkah-langkah berikut:
+Kami mengundang kontribusi pada proyek ini. Jika Anda ingin berkontribusi, silakan ikuti langkah-langkah berikut:
 
 1. Fork repositori ini ke akun GitHub Anda.
 2. Lakukan perubahan atau penambahan sesuai kebutuhan.
@@ -64,11 +53,11 @@ Kami menyambut kontribusi terhadap proyek ini. Jika Anda ingin berkontribusi, si
 
 ### Kontak
 
-Jika Anda memiliki pertanyaan atau masalah terkait proyek ini, jangan ragu untuk menghubungi kami melalui email atau platform komunikasi lainnya.
+Jika Anda mengalami kesulitan dalam instalasi atau memiliki pertanyaan tentang proyek ini, jangan ragu untuk menghubungi kami melalui email atau platform komunikasi lainnya.
 
 **Selamat Mencoba dan Berkontribusi!**
 
-![Contoh Tampilan Antarmuka Pengguna](link_to_screenshot_image)
+![Contoh Tampilan Antarmuka Pengguna](https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/1.PNG)
 
 _Contoh tampilan antarmuka pengguna:_
 ![Contoh Tampilan Antarmuka Pengguna](https://example.com/screenshot.png)
