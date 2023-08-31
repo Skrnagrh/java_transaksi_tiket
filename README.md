@@ -66,7 +66,7 @@ Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 |:---:|:---:|
 | Halaman Login. | Halaman Register. |
 
-| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/3.PNG" alt="Tampilan 3" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/4.tampilan/1.PNG" alt="Tampilan 4" width="50%"> |
+| <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/3.PNG" alt="Tampilan 3" width="50%"> | <img src="https://github.com/Skrnagrh/crud_java_netbeans/blob/main/1.tampilan/4.PNG" alt="Tampilan 4" width="50%"> |
 |:---:|:---:|
 | Halaman Menu Utama. | Halaman Data kereta dan Tujuan. |
 
